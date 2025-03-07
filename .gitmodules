@@ -1,3 +1,6 @@
 [submodule "ChampSim"]
 	path = ChampSim
 	url = https://github.com/KatyT12/ChampSim
+[submodule "Toooba"]
+	path = Toooba
+	url = https://github.com/KatyT12/Toooba
